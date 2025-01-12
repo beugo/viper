@@ -1,0 +1,10 @@
+requests==2.31.0
+tkinter
+platform
+base64
+ctypes
+subprocess
+warnings
+time
+os
+random
