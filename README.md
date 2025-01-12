@@ -21,7 +21,7 @@ Viper is a sophisticated multi-platform malware developed for educational and pe
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/viper.git
+   git clone https://github.com/beugo/viper.git
    cd viper
    ```
 
