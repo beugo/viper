@@ -1,7 +1,7 @@
 # Viper: An Advanced Multi-Platform Data Extraction Virus
 
 ## Overview
-Viper is a sophisticated multi-platform malware developed for educational and penetration testing purposes as part of UWA's CITS3006 course. Designed to operate across Windows, Linux, and macOS, Viper showcases various malware techniques such as operating system detection, virus-like behaviour, mutation for evasion, data exfiltration, and anti-debugging mechanisms.
+Viper is a sophisticated multi-platform malware developed for educational and penetration testing purposes as part of UWA's Penetration Testing course. Designed to operate across Windows, Linux, and macOS, Viper showcases various malware techniques such as operating system detection, virus-like behaviour, mutation for evasion, data exfiltration, and anti-debugging mechanisms.
 
 **Disclaimer:** This project is for educational purposes only.
 
